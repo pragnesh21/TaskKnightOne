@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1770309639566,
+  "timestamp": 1770310278382,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -11,9 +11,10 @@
         "ignoreVary": true
       },
       "urls": [
+        "/chunk-2BFTMKXR.js",
         "/chunk-32IPPDEF.js",
         "/chunk-3VPLJWJR.js",
-        "/chunk-7VEPA2TK.js",
+        "/chunk-6TRFU4FN.js",
         "/chunk-APEOJHZD.js",
         "/chunk-BEORNUGY.js",
         "/chunk-CXFZ3G62.js",
@@ -33,11 +34,10 @@
         "/chunk-Q5CGDEU2.js",
         "/chunk-Q6GAZKKX.js",
         "/chunk-RINC4VG4.js",
-        "/chunk-RU3EOHMT.js",
         "/chunk-S2AZ2X6U.js",
         "/chunk-W5VAVCIW.js",
         "/index.html",
-        "/main-VHHAPZVU.js",
+        "/main-VVRXKU65.js",
         "/polyfills-VFH4IOMS.js",
         "/scripts-2RS4HNWD.js",
         "/styles-NAG7PJLM.css"
@@ -109,9 +109,10 @@
     "/assets/images/react.jpg": "1767f250565940127485e79550c644cbc6f27763",
     "/assets/images/vue.jpg": "c8c1fd2aee554a661dcb0da3d4592b09876bc855",
     "/assets/logo/batmanLogo.png": "fdd359cf4a39834435e29af551b85823a3015df3",
+    "/chunk-2BFTMKXR.js": "01d9c09da8eec99bfa2aaa1807eeac148e23ee65",
     "/chunk-32IPPDEF.js": "b6d0ee34649361066eb6c049bae44145410ddd45",
     "/chunk-3VPLJWJR.js": "ea29958c49ab4572812f276c230715553f316a92",
-    "/chunk-7VEPA2TK.js": "c5b95d0bf7e6aedf4d90c7b00a88aeb1c24126a6",
+    "/chunk-6TRFU4FN.js": "cfb63eaca820863d83f9b77eacb4769c9f6b7525",
     "/chunk-APEOJHZD.js": "3cd160bd8d27dd95367f83e6561aac108a6463a1",
     "/chunk-BEORNUGY.js": "b8995d66a6227575bed5484bea7156e58c692aea",
     "/chunk-CXFZ3G62.js": "ba64f1e5ad66ae10d17ad679e8c9dce406ca19fe",
@@ -131,11 +132,10 @@
     "/chunk-Q5CGDEU2.js": "8705a7497d59af11e2531e075eeda9435056eb7e",
     "/chunk-Q6GAZKKX.js": "7bba23be1c993ce346f6103b3d08e761c90d5792",
     "/chunk-RINC4VG4.js": "a48ab45a7ac41773473ed5f0180ce6c29b964765",
-    "/chunk-RU3EOHMT.js": "28d3e2408b8dd202176d8993695aba7b847a11c0",
     "/chunk-S2AZ2X6U.js": "1d4e7a4de9377d8f5c527a9064bae674f91a473a",
     "/chunk-W5VAVCIW.js": "eb4c040aaf7735a80277ed040ccf494d6a0a4ba0",
-    "/index.html": "2e969283d3c25c0dcba6ca53a92c520449e3c868",
-    "/main-VHHAPZVU.js": "ccf58e191cbf2db52ef7725a44d8f969544470e8",
+    "/index.html": "56c5d805f269cb7835530ee4d8d2458767363957",
+    "/main-VVRXKU65.js": "7e4025ed8be2064ad4678141dcfbaf2627e99641",
     "/media/data-table-2IZ2Q4SK.woff": "d4582b40484b4ee1fd334a5577fd945e804484f9",
     "/media/data-table-AKMZFM4M.svg": "f1880710c0888c2cbc32311ca20bc3950e38e274",
     "/media/data-table-J6MZE774.ttf": "5c23a1ceb1b1d37844a864c02cd97b145e6243dd",
